@@ -84,5 +84,10 @@ header {
     width: 100%;
     height: 30px;
 }
+.zagol{
+    font-weight:bold;
+    color:dimgray;
+    font-size:12pt;
+}
 
 
